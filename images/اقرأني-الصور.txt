@@ -1,0 +1,20 @@
+الصور المطلوبة من فيقما
+=======================
+
+ما قدرت أنزّل الصور من فيقما مباشرة، فصدّرها أنت وحطها في هذا المجلد (images) بنفس الأسماء بالضبط.
+طريقة التصدير: اختر الطبقة في فيقما > من اللوحة اليمين تحت Export اختر الصيغة > Export.
+
+الاسم المطلوب          الطبقة في فيقما (داخل فريم Desktop)                         الصيغة
+-------------------------------------------------------------------------------------------------
+hero-bg.png            Hero > shot-burj-park-from-dubai-uae 1                       PNG  (2x أفضل)
+logo.png               Hero > فيلو ابيض 2                                           PNG  (2x)
+car.png                About > ... > modern sedan car on clean neighborhood street   PNG  (2x)
+delivery.png           About > ... > delivery person carrying package on scooter     PNG  (2x)
+iphone-hand.png        Footer > Free iPhone Hand Mockup (Mockuuups Studio)           PNG  (2x)
+app-store.svg          Hero > Store download button (اللي مكتوب فيه App Store)       SVG
+google-play.svg        Hero > Store download button (اللي مكتوب فيه Google Play)     SVG
+
+موجود مسبقاً (تقدر تستبدله بالتصدير من فيقما إذا تبي نفس الأيقونة بالضبط):
+bolt.svg               Steps > ... > Background+Shadow > SVG   (أيقونة البرق الثالثة)  SVG
+
+ملاحظة: صدّر الطبقة نفسها (مو الصورة الأصلية) عشان تطلع بنفس القص والشفافية اللي في التصميم.
