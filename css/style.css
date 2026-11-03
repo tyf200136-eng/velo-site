@@ -840,3 +840,20 @@ img.missing { visibility: hidden; }
   .legal h2 { font-size: 20px; line-height: 32px; margin-top: 20px; }
   .legal p { font-size: 16px; line-height: 28px; }
 }
+/* زر الرجوع في صفحات الخصوصية والشروط */
+.back-btn {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 44px;
+  height: 44px;
+  margin-bottom: 16px;
+  border-radius: 50%;
+  background: #f3f4f6;
+  color: #27272a;
+  transition: background .2s, color .2s;
+}
+.back-btn:hover {
+  background: #e53935;
+  color: #fff;
+}
